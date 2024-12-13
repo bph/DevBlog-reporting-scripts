@@ -1,0 +1,122 @@
+﻿"Bridging the gap: Hybrid themes",1975,https://developer.wordpress.org/news/2024/12/03/bridging-the-gap-hybrid-themes/
+"Home page / Archives",1448,http://developer.wordpress.org/news/
+"Front Page",1413,https://developer.wordpress.org/news/front-page/
+"What's New for Developers? (December 2024)",609,https://developer.wordpress.org/news/2024/12/10/whats-new-for-developers-december-2024/
+"What’s new for developers? (November 2024)",517,https://developer.wordpress.org/news/2024/11/whats-new-for-developers-november-2024/
+"How to use WordPress React components for plugin pages",284,https://developer.wordpress.org/news/2024/03/26/how-to-use-wordpress-react-components-for-plugin-pages/
+"How to add content-only editing support to a block",278,https://developer.wordpress.org/news/2024/11/05/how-to-add-content-only-editing-support-to-a-block/
+"Mastering theme.json: You might not need CSS",230,https://developer.wordpress.org/news/2024/10/17/mastering-theme-json-you-might-not-need-css/
+"Introducing Block Bindings, part 1: connecting custom fields",225,https://developer.wordpress.org/news/2024/02/20/introducing-block-bindings-part-1-connecting-custom-fields/
+"How to extend a WordPress block",219,https://developer.wordpress.org/news/2024/08/15/how-to-extend-a-wordpress-block/
+"All Posts",191,https://developer.wordpress.org/news/all-posts/
+"How to build a multi-block plugin",147,https://developer.wordpress.org/news/2024/09/how-to-build-a-multi-block-plugin/
+"Understand and use WordPress nonces properly",144,https://developer.wordpress.org/news/2023/08/01/understand-and-use-wordpress-nonces-properly/
+"An introduction to block variations",142,https://developer.wordpress.org/news/2023/08/an-introduction-to-block-variations/
+"Developer Hours: Improve your workflows with WordPress development tools",142,https://developer.wordpress.org/news/videos/developer-hours-improve-your-workflows-with-wordpress-development-tools/
+"Customizing core block style variations via theme.json",141,https://developer.wordpress.org/news/2023/05/customizing-core-block-style-variations-via-theme-json/
+"Registering block templates via plugins in WordPress 6.7",138,https://developer.wordpress.org/news/2024/08/29/registering-block-templates-via-plugins-in-wordpress-6-7/
+"Everything you need to know about spacing in block themes",135,https://developer.wordpress.org/news/2023/03/everything-you-need-to-know-about-spacing-in-block-themes/
+"How to disable specific blocks in WordPress",131,https://developer.wordpress.org/news/2024/01/29/how-to-disable-specific-blocks-in-wordpress/
+"useEntityRecords: an easier way to fetch WordPress data",127,https://developer.wordpress.org/news/2023/05/useentityrecords-an-easier-way-to-fetch-wordpress-data/
+"How to work effectively with the useSelect hook",127,https://developer.wordpress.org/news/2024/03/28/how-to-work-effectively-with-the-useselect-hook/
+"An introduction to overrides in Synced Patterns",125,https://developer.wordpress.org/news/2024/06/18/an-introduction-to-overrides-in-synced-patterns/
+"How to disable heading levels in the Editor",124,https://developer.wordpress.org/news/snippets/how-to-disable-heading-levels-in-the-editor/
+"Using Data Views to display and interact with data in plugins",116,https://developer.wordpress.org/news/2024/08/27/using-data-views-to-display-and-interact-with-data-in-plugins/
+"An introduction to block-based mega menus",115,https://developer.wordpress.org/news/2024/02/29/an-introduction-to-block-based-mega-menus/
+"Getting and setting Block Binding values in the Editor",103,https://developer.wordpress.org/news/2024/10/29/getting-and-setting-block-binding-values-in-the-editor/
+"A walk-through of layout classes in WordPress 6.1",100,https://developer.wordpress.org/news/2023/01/a-walk-through-of-layout-classes-in-wordpress-6-1/
+"How to lock WordPress blocks and prevent unlocking",99,https://developer.wordpress.org/news/snippets/how-to-lock-wordpress-blocks-and-prevent-unlocking/
+"How to add custom color options to blocks",92,https://developer.wordpress.org/news/2023/11/01/how-to-add-custom-color-options-to-blocks/
+"How webpack and WordPress packages interact",89,https://developer.wordpress.org/news/2023/04/how-webpack-and-wordpress-packages-interact/
+"A first look at the Interactivity API",80,https://developer.wordpress.org/news/2024/04/11/a-first-look-at-the-interactivity-api/
+"Styles, patterns, and more with the Details block",79,https://developer.wordpress.org/news/2023/12/01/styles-patterns-and-more-with-the-details-block/
+"Creating a custom block that stores post meta",76,https://developer.wordpress.org/news/2023/03/03/creating-a-custom-block-that-stores-post-meta/
+"Setting up a multi-block plugin using InnerBlocks and post meta",75,https://developer.wordpress.org/news/2024/05/22/setting-up-a-multi-block-using-inner-blocks-and-post-meta/
+"Static vs. dynamic blocks: What’s the difference?",74,https://developer.wordpress.org/news/2023/02/static-vs-dynamic-blocks-whats-the-difference/
+"Introducing Block Bindings, part 2: Working with custom binding sources",69,https://developer.wordpress.org/news/2024/03/06/introducing-block-bindings-part-2-working-with-custom-binding-sources/
+"Registering custom aspect ratios in WordPress 6.6",67,https://developer.wordpress.org/news/2024/08/05/registering-custom-aspect-ratios-in-wordpress-6-6/
+"Styling sections, nested elements, and more with Block Style Variations in WordPress 6.6",67,https://developer.wordpress.org/news/2024/06/21/styling-sections-nested-elements-and-more-with-block-style-variations-in-wordpress-6-6/
+"Understanding block attributes",64,https://developer.wordpress.org/news/2023/09/understanding-block-attributes/
+"Building a book review grid with a Query Loop block variation",61,https://developer.wordpress.org/news/2022/12/building-a-book-review-grid-with-a-query-loop-block-variation/
+"The Style Book: a one-stop shop for styling block themes",61,https://developer.wordpress.org/news/2023/06/21/the-style-book-a-one-stop-shop-for-styling-block-themes/
+"15 ways to curate the WordPress editing experience",61,https://developer.wordpress.org/news/2024/07/04/15-ways-to-curate-the-wordpress-editing-experience/
+"Adding and using custom settings in theme.json",61,https://developer.wordpress.org/news/2023/08/adding-and-using-custom-settings-in-theme-json/
+"Per-block CSS with theme.json",58,https://developer.wordpress.org/news/2023/04/per-block-css-with-theme-json/
+"Quick and easy local WordPress development with wp-env",58,https://developer.wordpress.org/news/2023/03/quick-and-easy-local-wordpress-development-with-wp-env/
+"Actions from Data Views: Adding images to the Media Library",57,https://developer.wordpress.org/news/2024/09/23/actions-from-data-views-adding-images-to-the-media-library/
+"Subscribe",57,https://developer.wordpress.org/news/subscribe/
+"How to register block variations with PHP",56,https://developer.wordpress.org/news/2024/03/14/how-to-register-block-variations-with-php/
+"How to use WordPress Playground for interactive demos",55,https://developer.wordpress.org/news/2024/04/25/how-to-use-wordpress-playground-for-interactive-demos/
+"What’s new for developers? (October 2024)",54,https://developer.wordpress.org/news/2024/10/10/whats-new-for-developers-october-2024/
+"JSON Schema in WordPress",49,https://developer.wordpress.org/news/2024/07/19/json-schema-in-wordpress/
+"Using block inspector sidebar groups",48,https://developer.wordpress.org/news/2023/06/using-block-inspector-sidebar-groups/
+"Adding and using grid support in WordPress themes",48,https://developer.wordpress.org/news/2024/02/06/adding-and-using-grid-support-in-wordpress-themes/
+"Intrinsic design, theming, and rethinking how to design with WordPress",48,https://developer.wordpress.org/news/2023/02/23/intrinsic-design-theming-and-rethinking-how-to-design-with-wordpress/
+"Beyond block styles, part 1: using the WordPress scripts package with themes",47,https://developer.wordpress.org/news/2023/07/19/beyond-block-styles-part-1-using-the-wordpress-scripts-package-with-themes/
+"Introduction to Playground: running WordPress in the browser",44,https://developer.wordpress.org/news/2024/04/05/introduction-to-playground-running-wordpress-in-the-browser/
+"How to disable the Font Library",42,https://developer.wordpress.org/news/snippets/how-to-disable-the-font-library/
+"Adding starter patterns to your WordPress themes",40,https://developer.wordpress.org/news/2024/01/31/adding-starter-patterns-to-your-wordpress-themes/
+"Converting your shortcodes to blocks",38,https://developer.wordpress.org/news/2023/03/converting-your-shortcodes-to-blocks/
+"How to register custom font collections for the Font Library",37,https://developer.wordpress.org/news/2024/04/01/how-to-register-custom-font-collections-for-the-font-library/
+"Building a card layout with a “hover reveal” effect",36,https://developer.wordpress.org/news/2024/07/30/building-a-card-layout-with-a-hover-reveal-effect/
+"An introduction to the Transients API",35,https://developer.wordpress.org/news/2024/06/11/an-introduction-to-the-transients-api/
+"Building a book review site with Block Bindings, part 1: Custom fields and block variations",34,https://developer.wordpress.org/news/2024/05/06/building-a-book-review-site-with-block-bindings-part-1-custom-fields-and-block-variations/
+"Using the box shadow feature for themes",34,https://developer.wordpress.org/news/2023/01/using-the-box-shadow-feature-for-themes/
+"Leveraging theme.json and per-block styles for more performant themes",33,https://developer.wordpress.org/news/2022/12/07/leveraging-theme-json-and-per-block-styles-for-more-performant-themes/
+"How do Log in and Registration work for developers?",31,https://developer.wordpress.org/news/2024/02/12/how-do-log-in-and-registration-work-for-developers/
+"Website security checks - WP-CLI for site owners and administrators",30,https://developer.wordpress.org/news/2024/09/09/website-security-checks-wp-cli-for-site-owners-and-administrators/
+"A walk-through tutorial on using Create Block Theme plugin",30,https://developer.wordpress.org/news/2023/12/05/a-walk-through-tutorial-on-using-create-block-theme-plugin/
+"How to modify theme.json data using server-side filters",30,https://developer.wordpress.org/news/2023/07/how-to-modify-theme-json-data-using-server-side-filters/
+"Styling blocks: empowering users with CSS custom properties",30,https://developer.wordpress.org/news/2023/08/styling-blocks-empowering-users-with-css-custom-properties/
+"Creating custom block styles in WordPress themes",29,https://developer.wordpress.org/news/2023/02/creating-custom-block-styles-in-wordpress-themes/
+"Curating the Editor experience with client-side filters",28,https://developer.wordpress.org/news/2023/05/24/curating-the-editor-experience-with-client-side-filters/
+"The HTML API: process your tags, not your pain",27,https://developer.wordpress.org/news/2023/09/the-html-api-process-your-tags-not-your-pain/
+"Block deprecation - a tutorial",27,https://developer.wordpress.org/news/2023/03/10/block-deprecation-a-tutorial/
+"Building a book review site with Block Bindings, part 2: Queries, patterns, and templates",27,https://developer.wordpress.org/news/2024/06/06/building-a-book-review-site-with-block-bindings-part-2-queries-patterns-and-templates/
+"Upgrading the site-editing experience with custom template part areas",25,https://developer.wordpress.org/news/2023/06/upgrading-the-site-editing-experience-with-custom-template-part-areas/
+"Tips and guidelines for writers",24,https://developer.wordpress.org/news/tips-and-guidelines-for-writers/
+"Exploring the future of web development with WebAssembly and PHP",21,https://developer.wordpress.org/news/2023/08/30/exploring-the-future-of-web-development-with-webassembly-and-php/
+"Creating an external project template for create-block",21,https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/
+"Exploring the Block Hooks API in WordPress 6.5",20,https://developer.wordpress.org/news/2024/03/25/exploring-the-block-hooks-api-in-wordpress-6-5/
+"Block theme templates: the easy way to build an elegant grid of posts",20,https://developer.wordpress.org/news/2023/03/block-theme-templates-the-easy-way-to-build-an-elegant-grid-of-posts/
+"How to extend WordPress via the SlotFill system",20,https://developer.wordpress.org/news/2022/11/how-to-extend-wordpress-via-the-slotfill-system/
+"About this site",20,https://developer.wordpress.org/news/about/
+"Conditionally unregister patterns",19,https://developer.wordpress.org/news/snippets/conditionally-unregister-patterns/
+"How to create an animated timeline plugin",19,https://developer.wordpress.org/news/2024/06/13/how-to-create-an-animated-timeline-plugin/
+"Drop Shadow updates in WordPress 6.5",19,https://developer.wordpress.org/news/2024/03/21/drop-shadow-updates-in-wordpress-6-5/
+"Using template patterns to build multiple homepage designs",18,https://developer.wordpress.org/news/2023/04/using-template-patterns-to-build-multiple-homepage-designs/
+"Beyond block styles, part 3: building custom design tools",18,https://developer.wordpress.org/news/2023/08/beyond-block-styles-part-3-building-custom-design-tools/
+"Block theme resources roundup",17,https://developer.wordpress.org/news/2023/02/block-theme-resources-roundup/
+"Beyond block styles, part 2: building a custom style for the Separator block",16,https://developer.wordpress.org/news/2023/07/27/beyond-block-styles-part-2-building-a-custom-style-for-the-separator-block/
+"Building dynamic block-based attachment templates in themes",16,https://developer.wordpress.org/news/2024/01/22/building-dynamic-block-based-attachment-templates-in-themes/
+"How to contribute",16,https://developer.wordpress.org/news/how-to-contribute/
+"Application state managed withDispatch, withSelect and compose 101",16,https://developer.wordpress.org/news/2022/12/application-state-managed-withdispatch-withselect-and-compose-101/
+"Mixing and matching styles, colors, and typography in WordPress 6.6",15,https://developer.wordpress.org/news/2024/07/22/mixing-and-matching-styles-colors-and-typography-in-wordpress-6-6/
+"What’s new for developers? (May 2024)",12,https://developer.wordpress.org/news/2024/05/10/whats-new-for-developers-may-2024/
+"Some very cool things can happen when you hit Enter in a block.",12,https://developer.wordpress.org/news/2023/01/17/some-very-cool-things-can-happen-when-you-hit-enter-in-a-block/
+"Extending plugins using custom SlotFills",11,https://developer.wordpress.org/news/2023/12/22/extending-plugins-using-custom-slotfills/
+"What’s new for developers? (September 2024)",10,https://developer.wordpress.org/news/2024/09/10/whats-new-for-developers-september-2024/
+"Pattern design tips and tricks for developers",8,https://developer.wordpress.org/news/2024/03/19/pattern-design-tips-and-tricks-for-developers/
+"What’s new for developers? (July 2024)",8,https://developer.wordpress.org/news/2024/07/10/whats-new-for-developers-july-2024/
+"The anatomy of a letterform",7,https://developer.wordpress.org/news/2023/08/the-anatomy-of-a-letterform/
+"Getting started with the Command Palette API",7,https://developer.wordpress.org/news/2023/11/20/getting-started-with-the-command-palette-api/
+"What’s new for developers? (August 2024)",6,https://developer.wordpress.org/news/2024/08/10/whats-new-for-developers-august-2024/
+"What’s new for developers? (February 2024)",6,https://developer.wordpress.org/news/2024/02/10/whats-new-for-developers-february-2024/
+"What’s new for developers? (April 2024)",6,https://developer.wordpress.org/news/2024/04/10/whats-new-for-developers-april-2024/
+"Creating Themes from a Pattern-first mindset",5,https://developer.wordpress.org/news/2022/11/creating-themes-from-a-pattern-first-mindset/
+"A PHP developer's guide to getting started with block development",5,https://developer.wordpress.org/news/2022/11/a-php-developers-guide-to-getting-started-with-block-development/
+"2023: Year in review",4,https://developer.wordpress.org/news/2024/01/05/2023-year-in-review/
+"What’s new for developers? (October 2023)",3,https://developer.wordpress.org/news/2023/10/whats-new-for-developers-october-2023/
+"Navigating the Block Editor Handbook",3,https://developer.wordpress.org/news/2023/06/navigating-the-block-editor-handbook/
+"How WordPress developers can keep their users satisfied",3,https://developer.wordpress.org/news/2023/09/how-wordpress-developers-can-keep-their-users-satisfied/
+"What’s new for developers? (December 2023)",2,https://developer.wordpress.org/news/2023/12/10/whats-new-for-developers-december-2023/
+"What’s new for developers? (June 2024)",2,https://developer.wordpress.org/news/2024/06/10/whats-new-for-developers-june-2024/
+"Demystifying Home and Posts Templates in WordPress theme development",2,https://developer.wordpress.org/news/2022/11/demystifying-home-and-posts-templates-in-wordpress-theme-development/
+"What's new for developers? (May 2023)",2,https://developer.wordpress.org/news/2023/05/whats-new-for-developers-may-2023/
+"What's new for developers? (February 2023)",1,https://developer.wordpress.org/news/2023/02/whats-new-for-developers-february-2023/
+"What’s new for developers? (July 2023)",1,https://developer.wordpress.org/news/2023/07/whats-new-for-developers-july-2023/
+"Make your site’s typography make a statement",1,https://developer.wordpress.org/news/2023/07/make-your-sites-typography-make-a-statement/
+"What’s new for developers? (November 2023)",1,https://developer.wordpress.org/news/2023/11/10/whats-new-for-developers-november-2023/
+"A great read—four simple steps to your best body copy ever",1,https://developer.wordpress.org/news/2023/12/01/a-great-read-four-simple-steps-to-your-best-body-copy-ever/
+"Welcome to the WordPress Developer Blog",1,https://developer.wordpress.org/news/2022/11/welcome-to-the-wordpress-developer-blog/
+"2022: the block developer’s year in review",1,https://developer.wordpress.org/news/2022/12/2022-the-block-developers-year-in-review/
